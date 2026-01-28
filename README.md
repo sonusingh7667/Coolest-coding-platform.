@@ -1,0 +1,1 @@
+An end-to-end coding platform created to strengthen core concepts, improve logical thinking, and practice problem-solving in a structured way. The platform emphasizes clear explanations, step-by-step approaches, and optimized solutions to help learners prepare for technical interviews and develop real-world coding confidence.
